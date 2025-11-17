@@ -1,2 +1,2 @@
-const unusedVariable = "This is a test";
-console.log("Linting error example")
+const message = 'This is a valid example';
+console.log(message);
